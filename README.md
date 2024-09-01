@@ -34,9 +34,9 @@ c)
 	    * *
 	     *
 
-2. Output "Hello World" using two print statements.  One for "Hello " and one for "World".  Notice the space.
+2. Output "Hello World" using two print statements.  One for "Hello " and one for "World".  Your output should be on the same line as each other with a newline at the end.  Notice the space!
 
-3. Output the following using one print statement.  Include the quotation marks:</br>
+3. Output the following using one print statement.  Each word should be on a different line. Include the quotation marks:</br>
    
    "Man"</br>
    "Board"</br>
